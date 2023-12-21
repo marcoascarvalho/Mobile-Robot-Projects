@@ -1,0 +1,181 @@
+*************************************************************
+FileName = bocboard3.GBR
+AutoAperture = True
+*************************************************************
+Generating : 
+      File : bocboard3.GTL
+
+    Adding Layer      : TopLayer
+
+    Adding Layer      : MultiLayer
+
+
+Used DCodes :
+    D10
+    D11
+    D12
+    D13
+    D14
+    D15
+    D16
+    D17
+    D18
+    D19
+    D20
+    D21
+    D22
+    D23
+    D24
+    D25
+    D26
+*************************************************************
+
+*************************************************************
+Generating : 
+      File : bocboard3.GBL
+
+    Adding Layer      : BottomLayer
+
+    Adding Layer      : MultiLayer
+
+
+Used DCodes :
+    D10
+    D11
+    D12
+    D13
+    D14
+    D17
+    D18
+    D19
+    D20
+    D21
+    D22
+    D23
+    D24
+    D25
+    D26
+*************************************************************
+
+*************************************************************
+Generating : 
+      File : bocboard3.GTO
+
+    Adding Layer      : TopOverlay
+
+
+Used DCodes :
+    D10
+    D11
+    D12
+    D13
+    D17
+    D27
+*************************************************************
+
+*************************************************************
+Generating : 
+      File : bocboard3.GTP
+
+    Adding Layer      : TopPaste
+
+    Adding Layer      : TopLayer
+
+    Adding Layer      : MultiLayer
+
+
+Used DCodes :
+    D17
+*************************************************************
+
+*************************************************************
+Generating : 
+      File : bocboard3.GBP
+
+    Adding Layer      : BottomPaste
+
+    Adding Layer      : BottomLayer
+
+    Adding Layer      : MultiLayer
+
+
+Used DCodes :
+    D17
+*************************************************************
+
+*************************************************************
+Generating : 
+      File : bocboard3.GTS
+
+    Adding Layer      : TopSolder
+
+    Adding Layer      : TopLayer
+
+    Adding Layer      : MultiLayer
+
+
+Used DCodes :
+    D17
+    D22
+    D28
+    D29
+    D30
+    D31
+    D32
+    D33
+    D34
+    D35
+*************************************************************
+
+*************************************************************
+Generating : 
+      File : bocboard3.GBS
+
+    Adding Layer      : BottomSolder
+
+    Adding Layer      : BottomLayer
+
+    Adding Layer      : MultiLayer
+
+
+Used DCodes :
+    D17
+    D22
+    D28
+    D29
+    D30
+    D31
+    D32
+    D33
+    D34
+    D35
+*************************************************************
+
+*************************************************************
+Generating : Drill Drawing
+      File : bocboard3.GD1
+
+    Adding Layer      : DrillDrawing
+
+    Adding Drill Pair : TopLayer-BottomLayer
+
+
+Used DCodes :
+    D10
+    D27
+    D36
+*************************************************************
+
+*************************************************************
+Generating : Drill Guide
+      File : bocboard3.GG1
+
+    Adding Layer      : DrillGuide
+
+    Adding Drill Pair : TopLayer-BottomLayer
+
+
+Used DCodes :
+    D36
+*************************************************************
+
